@@ -1,9 +1,12 @@
 {
 	"author": "Jhonatan M.",
 	"version": "1.0.0",
+  "description": "This is my backend tutorial project",
+  "keywords": ["freecodecamp","test","turotial"],
+  "license": "freecodecamp",
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
-		"express": "^4.14.0"
+    "express": "^4.14.0"
 	},
 	"main": "server.js",
 	"scripts": {
